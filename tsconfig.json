@@ -2,7 +2,8 @@
   "compilerOptions": {
     "target": "es6",
     "strict": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "moduleResolution": "node"
   },
   "ts-node": { "esm": true }
 }
